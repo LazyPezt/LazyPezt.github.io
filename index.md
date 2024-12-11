@@ -1,5 +1,5 @@
 
-# Christopher Samaniego
+# Christopher Samaniego's Portfolio
 
 Hello! I am a computer science major who hopes to graduate in 2028. I have worked with 2 other langauges before, being lua and python. I am mostly into gamedev, but net coding seems interesting as well.
 
