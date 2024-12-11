@@ -1,7 +1,7 @@
 
 # Christopher Samaniego's Portfolio
 
-Hello! I am <ins>a computer science major at California State University Fullerton,</ins> who hopes to graduate in 2028. I have worked with 2 other langauges before, being <ins>lua and python.</ins> I am mostly into __gamedev__, but net coding seems interesting as well.
+Hello! I am <ins>__a computer science major at California State University Fullerton,__</ins> who hopes to graduate in 2028. I have worked with 2 other langauges before, being <ins>lua and python.</ins> I am mostly into __gamedev__, but net coding seems interesting as well.
 
 You can find me on github here, at: https://github.com/LazyPezt
 
