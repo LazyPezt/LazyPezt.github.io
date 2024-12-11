@@ -12,4 +12,4 @@ Lab 11, Part 2
 This lab was a good one, just because I really find the concept of object classes interesting. I found that classes were very similar to other things I’ve worked with, like lua. Other than that, I highly enjoyed using the member functions, because they’re pretty simple, (so far), and I like using them, since it feels familiar. Also I wished that we did more with the random number generator, and also I wished that we wrote our own class.
 
 Lab 7, Part 1
-This lab was SO difficult. It was easily one of the harder ones, but I liked the challenge that it had. Especially once I understood how to actually code what I needed to, it was pretty fun to do. Although I do think I made it harder for me and my teammate by making all of the if statements for the signs into only one if statement each.
+This lab was SO difficult. It was easily one of the harder ones, but I liked the challenge that it had. Especially once I understood how to actually code what I needed to, it was pretty fun to do. Although I do think I made it harder for me and my teammate by making all of the if statements for the signs into only one if statement each
